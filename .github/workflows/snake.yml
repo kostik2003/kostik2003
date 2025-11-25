@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: kostik2003
           outputs: dist/github-contribution-grid-snake-dark.svg
-          args: --palette github-dark
+          args: --theme dark
 
 
       - name: Push snake to output branch
