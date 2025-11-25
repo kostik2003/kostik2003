@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kostik2003//kostik2003/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kostik2003/kostik2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ### 👨‍💻 About Me
