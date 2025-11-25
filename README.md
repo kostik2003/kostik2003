@@ -34,6 +34,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/kostik2003/kostik2003/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ### 👨‍💻 About Me
 
